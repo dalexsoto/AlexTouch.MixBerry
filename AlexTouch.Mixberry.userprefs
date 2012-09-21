@@ -1,10 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AlexTouch.Mixberry/ApiDefinition.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlexTouch.Mixberry/libMixBerrySDK.linkwith.cs">
     <Files>
       <File FileName="AlexTouch.Mixberry/StructsAndEnums.cs" Line="51" Column="3" />
       <File FileName="AlexTouch.Mixberry/ApiDefinition.cs" Line="90" Column="44" />
-      <File FileName="AlexTouch.Mixberry/libMixBerrySDK.linkwith.cs" Line="4" Column="184" />
+      <File FileName="AlexTouch.Mixberry/libMixBerrySDK.linkwith.cs" Line="4" Column="115" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
