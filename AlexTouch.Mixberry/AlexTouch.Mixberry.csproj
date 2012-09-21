@@ -43,11 +43,11 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Xamarin.ObjcBinding.CSharp.targets" />
   <ItemGroup>
-    <ObjcBindingNativeLibrary Include="libSDK_Lite.a" />
+    <ObjcBindingNativeLibrary Include="libMixBerrySDK.a" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="libSDK_Lite.linkwith.cs">
-      <DependentUpon>libSDK_Lite.a</DependentUpon>
+    <Compile Include="libMixBerrySDK.linkwith.cs">
+      <DependentUpon>libMixBerrySDK.a</DependentUpon>
     </Compile>
   </ItemGroup>
 </Project>
